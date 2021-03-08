@@ -1,3 +1,3 @@
-# login-panel-dgs
+# steeringLock
 
 Условия использования в файле - Лицензия.md
